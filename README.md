@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/v1tush">V1TUSH</a></h1>
 
-<p align="center">
-  <strong>Python Backend Developer</strong>
-</p>
+<p align="center"><strong>Python Backend Developer</strong></p>
 
 <p align="center">
   <a href="https://t.me/v1tush"><img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
@@ -36,21 +34,25 @@ A platform for creating, solving, and sharing ciphers, with features such as QR 
 
 ### Languages
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,cpp,golang,javascript,sql,html,css&perline=7&titles=true)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,cpp,golang,javascript,html,css&perline=6&titles=true)
+
+SQL
 
 ### Backend
 
-![Backend](https://go-skill-icons.vercel.app/api/icons?i=django,djangorestframework,fastapi,sqlalchemy,alembic,pydantic,celery,asyncio,pillow,jwt&perline=6&titles=true)
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=django,djangorestframework,fastapi,sqlalchemy,pydantic,celery,pillow&perline=5&titles=true)
 
-Django Ninja · django-debug-toolbar · transliterate
+Django Ninja · Alembic · asyncio · JWT · django-debug-toolbar · transliterate
 
 ### Frontend
 
-![Frontend](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,zustand,tanstackquery,html,css,javascript&perline=7&titles=true)
+![Frontend](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,zustand,html,css,javascript&perline=6&titles=true)
+
+TanStack Query
 
 ### Databases
 
-![Databases](https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlite,redis&perline=5&titles=true)
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlite,redis&perline=3&titles=true)
 
 ### DevOps & Infrastructure
 
@@ -60,20 +62,18 @@ Docker Compose
 
 ### Package & Project Management
 
-![Package management](https://go-skill-icons.vercel.app/api/icons?i=uv,pip,venv&perline=5&titles=true)
+uv · pip · venv
 
 ### AI / Machine Learning
 
-![AI and ML](https://go-skill-icons.vercel.app/api/icons?i=catboost,clip,openai,yandexcloud&perline=5&titles=true)
-
-DINO · DINOv2 · OpenAI Responses API · Structured Outputs · Function Calling · Yandex Cloud AI Studio
+OpenAI Python SDK · Yandex Cloud AI Studio · CatBoost · DINO / DINOv2 · CLIP · Responses API · Structured Outputs · Function Calling
 
 ### Testing
 
-![Testing](https://go-skill-icons.vercel.app/api/icons?i=pytest,selenium&perline=5&titles=true)
+![Testing](https://go-skill-icons.vercel.app/api/icons?i=pytest,selenium&perline=2&titles=true)
 
 unittest · unittest.mock · parameterized
 
 ### Code Quality
 
-![Code quality](https://go-skill-icons.vercel.app/api/icons?i=ruff,black,flake8&perline=5&titles=true)
+Ruff · Black · Flake8
