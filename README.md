@@ -64,9 +64,9 @@ Django Ninja · aiogram · TeleBot (pyTelegramBotAPI) · Alembic · asyncio · J
 
 ### DevOps & Infrastructure
 
-![DevOps and infrastructure](https://go-skill-icons.vercel.app/api/icons?i=docker,nginx,linux,git,github&perline=5&titles=true)
+![DevOps and infrastructure](https://go-skill-icons.vercel.app/api/icons?i=docker,nginx,linux,git,github,gitlab&perline=6&titles=true)
 
-Docker Compose
+Docker Compose · SourceCraft
 
 ### Package & Project Management
 
