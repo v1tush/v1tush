@@ -24,6 +24,10 @@
 
 I'm a Python backend developer interested in building reliable web services and exploring AI/ML tools.
 
+## Teaching
+
+I teach Python to school students and university learners, with a focus on clear explanations and hands-on practice. [Read student reviews on Avito](https://www.avito.ru/moskva/predlozheniya_uslug/repetitor_python_i_ai_obuchenie_onlayn_3655060797).
+
 ## Technical Stack
 
 ### Languages
