@@ -44,9 +44,9 @@ Jupyter Notebook
 
 ### API Development & Tools
 
-![API tools](https://go-skill-icons.vercel.app/api/icons?i=postman&perline=1&titles=true)
+![API tools](https://go-skill-icons.vercel.app/api/icons?i=postman,swagger&perline=2&titles=true)
 
-REST API · Postman
+REST API · Postman · Swagger
 
 ### Backend
 
