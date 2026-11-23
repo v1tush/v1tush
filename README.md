@@ -17,6 +17,20 @@ I'm a Python backend developer interested in building reliable web services and 
 
 A platform for creating, solving, and sharing ciphers, with features such as QR codes, a cipher of the day, and a user leaderboard.
 
+## Hackathon Projects
+
+### [Astramis — Scientific Orbit 2026](https://github.com/Quadrotez/hackaton-scientific-orbit-2026)
+
+Team solution for a robotics challenge: detect objects on the floor, estimate their material and volume, and help a cleaning robot decide whether to pick them up, avoid them, or ask for help. **1st place** on the public and final leaderboards.
+
+[Repository](https://github.com/Quadrotez/hackaton-scientific-orbit-2026) · [Commit history](https://github.com/Quadrotez/hackaton-scientific-orbit-2026/commits/main)
+
+### [PetCare — Hackathon MVP](https://github.com/Quadrotez/hackaton-prod-22-2026)
+
+Team project for pet owners: pet profiles, feeding, health records, medications, and a care calendar, with a FastAPI backend, Next.js frontend, and AI-assisted veterinary document analysis.
+
+[Repository](https://github.com/Quadrotez/hackaton-prod-22-2026) · [Commit history](https://github.com/Quadrotez/hackaton-prod-22-2026/commits/master)
+
 ## GitHub Stats
 
 <div align="center">
