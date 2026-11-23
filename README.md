@@ -40,24 +40,40 @@ A platform for creating, solving, and sharing ciphers, with features such as QR 
 
 ### Backend
 
-![Backend](https://go-skill-icons.vercel.app/api/icons?i=django,djangorestframework,fastapi,sqlalchemy,alembic,pydantic,celery,asyncio,pillow,jwt&perline=5&titles=true)
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=django,djangorestframework,fastapi,sqlalchemy,alembic,pydantic,celery,asyncio,pillow,jwt&perline=6&titles=true)
+
+Django Ninja · django-debug-toolbar · transliterate
+
+### Frontend
+
+![Frontend](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,zustand,tanstackquery,html,css,javascript&perline=7&titles=true)
 
 ### Databases
 
 ![Databases](https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlite,redis&perline=5&titles=true)
 
-### DevOps & Tools
+### DevOps & Infrastructure
 
-![DevOps and tools](https://go-skill-icons.vercel.app/api/icons?i=docker,nginx,git,github,linux&perline=5&titles=true)
+![DevOps and infrastructure](https://go-skill-icons.vercel.app/api/icons?i=docker,nginx,linux,git,github&perline=5&titles=true)
+
+Docker Compose
+
+### Package & Project Management
+
+![Package management](https://go-skill-icons.vercel.app/api/icons?i=uv,pip,venv&perline=5&titles=true)
+
+### AI / Machine Learning
+
+![AI and ML](https://go-skill-icons.vercel.app/api/icons?i=catboost,clip,openai,yandexcloud&perline=5&titles=true)
+
+DINO · DINOv2 · OpenAI Responses API · Structured Outputs · Function Calling · Yandex Cloud AI Studio
 
 ### Testing
 
 ![Testing](https://go-skill-icons.vercel.app/api/icons?i=pytest,selenium&perline=5&titles=true)
 
-### AI / ML
+unittest · unittest.mock · parameterized
 
-CLIP · FAISS
+### Code Quality
 
-### Exploring Frontend
-
-React · Next.js · Zustand · TanStack Query
+![Code quality](https://go-skill-icons.vercel.app/api/icons?i=ruff,black,flake8&perline=5&titles=true)
