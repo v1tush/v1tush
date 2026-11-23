@@ -32,6 +32,18 @@ I'm a Python backend developer interested in building reliable web services and 
 
 SQL
 
+### Data Science & Visualization
+
+![Data science and visualization](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,jupyter&perline=4&titles=true)
+
+Jupyter Notebook
+
+### API Development & Tools
+
+![API tools](https://go-skill-icons.vercel.app/api/icons?i=postman&perline=1&titles=true)
+
+REST API · Postman
+
 ### Backend
 
 ![Backend](https://go-skill-icons.vercel.app/api/icons?i=django,djangorestframework,fastapi,sqlalchemy,pydantic,celery,pillow&perline=5&titles=true)
