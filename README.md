@@ -7,30 +7,6 @@
   <a href="https://steamcommunity.com/profiles/76561198984292133/"><img src="https://img.shields.io/badge/Steam-Profile-171A21?style=flat-square&logo=steam&logoColor=white" alt="Steam"></a>
 </p>
 
-## About Me
-
-I'm a Python backend developer interested in building reliable web services and exploring AI/ML tools.
-
-## Featured Project
-
-### [Cryptonite](https://github.com/v1tush/cryptonite)
-
-A platform for creating, solving, and sharing ciphers, with features such as QR codes, a cipher of the day, and a user leaderboard.
-
-## Hackathon Projects
-
-### [Astramis — Scientific Orbit 2026](https://github.com/Quadrotez/hackaton-scientific-orbit-2026)
-
-Team solution for a robotics challenge: detect objects on the floor, estimate their material and volume, and help a cleaning robot decide whether to pick them up, avoid them, or ask for help. **1st place** on the public and final leaderboards.
-
-[Repository](https://github.com/Quadrotez/hackaton-scientific-orbit-2026) · [Commit history](https://github.com/Quadrotez/hackaton-scientific-orbit-2026/commits/main)
-
-### [PetCare — Hackathon MVP](https://github.com/Quadrotez/hackaton-prod-22-2026)
-
-Team project for pet owners: pet profiles, feeding, health records, medications, and a care calendar, with a FastAPI backend, Next.js frontend, and AI-assisted veterinary document analysis.
-
-[Repository](https://github.com/Quadrotez/hackaton-prod-22-2026) · [Commit history](https://github.com/Quadrotez/hackaton-prod-22-2026/commits/master)
-
 ## GitHub Stats
 
 <div align="center">
@@ -42,7 +18,9 @@ Team project for pet owners: pet profiles, feeding, health records, medications,
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=v1tush&theme=transparent&hide_border=true" alt="GitHub streak">
 </div>
 
----
+## About Me
+
+I'm a Python backend developer interested in building reliable web services and exploring AI/ML tools.
 
 ## Technical Stack
 
@@ -61,8 +39,6 @@ Django Ninja · Alembic · asyncio · JWT · django-debug-toolbar · translitera
 ### Frontend
 
 ![Frontend](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,zustand,html,css,javascript&perline=6&titles=true)
-
-TanStack Query
 
 ### Databases
 
@@ -91,3 +67,23 @@ unittest · unittest.mock · parameterized
 ### Code Quality
 
 Ruff · Black · Flake8
+
+## Featured Project
+
+### [Cryptonite](https://github.com/v1tush/cryptonite)
+
+A platform for creating, solving, and sharing ciphers, with features such as QR codes, a cipher of the day, and a user leaderboard.
+
+## Hackathon Projects
+
+### [Astramis — Scientific Orbit 2026](https://github.com/Quadrotez/hackaton-scientific-orbit-2026)
+
+Team solution for a robotics challenge: detect objects on the floor, estimate their material and volume, and help a cleaning robot decide whether to pick them up, avoid them, or ask for help. **1st place** on the public and final leaderboards.
+
+[Repository](https://github.com/Quadrotez/hackaton-scientific-orbit-2026) · [Commit history](https://github.com/Quadrotez/hackaton-scientific-orbit-2026/commits/main)
+
+### [PetCare — Hackathon MVP](https://github.com/Quadrotez/hackaton-prod-22-2026)
+
+Team project for pet owners: pet profiles, feeding, health records, medications, and a care calendar, with a FastAPI backend, Next.js frontend, and AI-assisted veterinary document analysis.
+
+[Repository](https://github.com/Quadrotez/hackaton-prod-22-2026) · [Commit history](https://github.com/Quadrotez/hackaton-prod-22-2026/commits/master)
