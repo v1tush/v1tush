@@ -46,9 +46,9 @@ REST API · Postman
 
 ### Backend
 
-![Backend](https://go-skill-icons.vercel.app/api/icons?i=django,djangorestframework,fastapi,sqlalchemy,pydantic,celery,pillow&perline=5&titles=true)
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=django,aiogram,djangorestframework,fastapi,sqlalchemy,pydantic,celery,pillow&perline=5&titles=true)
 
-Django Ninja · Alembic · asyncio · JWT · django-debug-toolbar · transliterate
+Django Ninja · aiogram · TeleBot (pyTelegramBotAPI) · Alembic · asyncio · JWT · django-debug-toolbar · transliterate
 
 ### Frontend
 
