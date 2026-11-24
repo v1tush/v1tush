@@ -105,3 +105,9 @@ Team solution for a robotics challenge: detect objects on the floor, estimate th
 Team project for pet owners: pet profiles, feeding, health records, medications, and a care calendar, with a FastAPI backend, Next.js frontend, and AI-assisted veterinary document analysis.
 
 [Repository](https://github.com/Quadrotez/hackaton-prod-22-2026) · [Commit history](https://github.com/Quadrotez/hackaton-prod-22-2026/commits/master)
+
+### [Master Tariff](https://github.com/v1tush/master-tariff-backend)
+
+Hackathon project for managing delivery tariffs, built with a Django REST Framework backend, React frontend, PostgreSQL, Redis, and Nginx.
+
+[Backend repository](https://github.com/v1tush/master-tariff-backend) · [Frontend repository](https://github.com/v1tush/master-tariff-frontend) · [Backend commit history](https://github.com/v1tush/master-tariff-backend/commits/main) · [Frontend commit history](https://github.com/v1tush/master-tariff-frontend/commits/main)
