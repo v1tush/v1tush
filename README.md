@@ -8,6 +8,17 @@
   <a href="https://leetcode.com/u/v1tush/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 </p>
 
+## GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=v1tush&show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true&hide_rank=true" alt="GitHub Stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1tush&layout=compact&hide_border=true&bg_color=00000000&text_color=868686&langs_count=8" alt="Most Used Languages">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v1tush&theme=transparent&hide_border=true" alt="Streak Stats">
+</div>
+
 ## About Me
 
 I'm a Python backend developer interested in building reliable web services and exploring AI/ML tools.
@@ -79,6 +90,8 @@ Hackathon project for managing delivery tariffs, built with a Django REST Framew
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -114,13 +127,3 @@ Hackathon project for managing delivery tariffs, built with a Django REST Framew
 
 ### Code Quality
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
-
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1tush&layout=compact&hide_border=true&bg_color=00000000&text_color=868686&langs_count=8&hide=jupyter%20notebook,html,css" alt="Most Used Languages">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v1tush&theme=transparent&hide_border=true" alt="Streak Stats">
-</div>
