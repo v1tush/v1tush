@@ -77,6 +77,7 @@ Hackathon project for managing delivery tariffs, built with a Django REST Framew
 ![Django_REST_Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
 ![Django_Ninja](https://img.shields.io/badge/Django_Ninja-0C4B33?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=for-the-badge&logo=python&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
 ![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
@@ -84,7 +85,6 @@ Hackathon project for managing delivery tariffs, built with a Django REST Framew
 ![Alembic](https://img.shields.io/badge/Alembic-306998?style=for-the-badge)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-5A9?style=for-the-badge)
-![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### Frontend
@@ -95,6 +95,7 @@ Hackathon project for managing delivery tariffs, built with a Django REST Framew
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![asyncpg](https://img.shields.io/badge/asyncpg-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -108,22 +109,17 @@ Hackathon project for managing delivery tariffs, built with a Django REST Framew
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![SourceCraft](https://img.shields.io/badge/SourceCraft-5C2D91?style=for-the-badge)
 
-### Package & Project Management
-![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge)
-
 ### AI / Machine Learning
 ![OpenAI_Python_SDK](https://img.shields.io/badge/OpenAI_Python_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Yandex_Cloud_AI_Studio](https://img.shields.io/badge/Yandex_Cloud_AI_Studio-FC3F1D?style=for-the-badge&logo=yandexcloud&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
 ![DINOv2](https://img.shields.io/badge/DINOv2-0054A6?style=for-the-badge)
 ![CLIP](https://img.shields.io/badge/CLIP-5A5A5A?style=for-the-badge)
-![Responses_API](https://img.shields.io/badge/Responses_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Structured_Outputs](https://img.shields.io/badge/Structured_Outputs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Function_Calling](https://img.shields.io/badge/Function_Calling-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Development Tools
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge)
+![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
 
 ### Testing
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-### Code Quality
-![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
