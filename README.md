@@ -33,6 +33,12 @@ I teach Python to school students and university learners, with a focus on clear
 
 A platform for creating, solving, and sharing ciphers, with features such as QR codes, a cipher of the day, and a user leaderboard.
 
+### [Airline Support Agent](https://github.com/v1tush/airline-support-agent)
+
+An AI airline-support agent with flight and rule search, RAG, MCP tools, prompt-injection safeguards, cost monitoring, and an evaluation harness.
+
+**Stack:** Python, MCP, Pydantic, Yandex AI Studio, pytest
+
 ### [Astramis — Scientific Orbit 2026](https://github.com/Quadrotez/hackaton-scientific-orbit-2026)
 
 Team solution for a robotics challenge: detect objects on the floor, estimate their material and volume, and help a cleaning robot decide whether to pick them up, avoid them, or ask for help. **2nd place overall (1st on the public leaderboard).**
